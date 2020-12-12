@@ -1,84 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-  <title>GetAnimePlay</title>
-  <meta content="" name="descriptison">
-  <meta content="" name="keywords">
-
-  <!-- Favicons -->
-  <link href="Resources/img/favicon.png" rel="icon">
-  <link href="Resources/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-  <link href="Resources/vendor/icofont/icofont.min.css" rel="stylesheet">
-  <link href="Resources/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="Resources/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="Resources/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="Resources/vendor/remixicon/remixicon.css" rel="stylesheet">
-  <link href="Resources/vendor/aos/aos.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="Resources/css/style.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: Gp - v2.1.0
-  * Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-</head>
-
-<body>
-
-  <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top ">
-    <div class="container d-flex align-items-center justify-content-between">
-
-      <h1 class="logo"><a href="index.html">GAp<span>.</span></a></h1>
-      <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="Resources/img/logo.png" alt="" class="img-fluid"></a>-->
-
-      <nav class="nav-menu d-none d-lg-block">
-        <ul>
-          <li class="active"><a href="index.html">Inicio</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#services">Noticias</a></li>
-          <li><a href="#portfolio">Mangas y animes</a></li>
-          <!--<li><a href="#team">Team</a></li>
-          <li class="drop-down"><a href="">Drop Down</a>
-            <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="drop-down"><a href="#">Deep Drop Down</a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-            </ul>
-          </li> -->
-          <li><a href="#contact">Contact</a></li>
-
-        </ul>
-      </nav><!-- .nav-menu -->
-
-      <a href="#about" class="get-started-btn scrollto">Get Started</a>
-
-    </div>
-  </header><!-- End Header -->
+<?php include 'Layouts/head.php';  ?>
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center justify-content-center">
@@ -95,25 +15,25 @@
         <div class="col-xl-2 col-md-4 col-6">
           <div class="icon-box">
             <i class="ri-store-line"></i>
-            <h3><a href="">Playstation</a></h3>
+            <h3><a href="#">Playstation</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4 col-6 ">
           <div class="icon-box">
             <i class="ri-bar-chart-box-line"></i>
-            <h3><a href="">X Box</a></h3>
+            <h3><a href="#">X Box</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4 col-6 mt-4 mt-md-0">
           <div class="icon-box">
             <i class="ri-calendar-todo-line"></i>
-            <h3><a href="">Nintendo</a></h3>
+            <h3><a href="#">Nintendo</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4 col-6 mt-4 mt-xl-0">
           <div class="icon-box">
             <i class="ri-paint-brush-line"></i>
-            <h3><a href="">Xtreme Pc</a></h3>
+            <h3><a href="#">Xtreme Pc</a></h3>
           </div>
         </div>
         <!-- <div class="col-xl-2 col-md-4 col-6 mt-4 mt-xl-0">
@@ -135,22 +55,20 @@
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="Resources/img/solo-bg.jpg" class="img-fluid" alt="">
+            <img src="https://cdn.atomix.vg/wp-content/uploads/2019/10/hero-rising-.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
-            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+            <h3>My hero academia (The movie) Heroes: Rising.  Reseña.</h3>
             <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              Esta segunda película del famoso anime Boku no Hero Academia (también conocido como My Hero Academia) nos sitúa
+              en una isla en la que apenas suceden crímenes así que nuestro querido grupo de estudiantes se traslada allí
+              para ayudar a los isleños con pequeñas tareas y así mejorar como héroes. Hasta que, de manera repentina,
+              aparece un villano que lleva el caos a la isla y los héroes tienen que darlo todo para salvar a los habitantes.
             </p>
-            <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-            </ul>
             <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident
+              Hace tiempo vi la primera película que salió de esta serie (Boku no Hero Academia: Futari no Hero) y, a pesar
+              de que me gustó mucho, no me decidí a dedicarle una reseña. Sin embargo, creo que en esta ocasión la nueva
+              película que se ha estrenado tiene algún aspecto interesante que me apetece comentar.
             </p>
           </div>
         </div>
@@ -219,51 +137,71 @@
         </div>
 
         <div class="row">
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch " data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box border border-danger">
+              <div class="ratio ratio-4x3">
+                <img src="https://puregaming.es/wp-content/uploads/2020/12/Deluxe_Mockup_Steam.jpg" alt="" width="240px" height="150px">
+              </div>
+              <h4><a href="">Little Nightmares II ya tiene demo disponible</a></h4>
+              <p>a demo de Little Nightmares II está disponible para PC desde hoy mismo para Steam y GOG.com. Permitiendo descubrir
+                el juego que se lanzará el 11 de febrero de 2021. En esta demo los jugadores se pondrán en la piel de Mono, quien se
+                despierta en un aterrador mundo desconocido.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Sed ut perspiciatis</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+            <div class="icon-box border border-danger">
+              <div class="ratio ratio-4x3">
+                <img src="https://allgamersin.com/wp-content/uploads/2020/10/WarRobots_art.jpg" alt="" width="240px" height="150px">
+              </div>
+              <h4><a href="">War Robots y Serius Sam 4 rompen barreras</a></h4>
+              <p>Pixonic, el estudio de MY.GAMES, se complace en presentar War Robots X Serious Sam 4. Un evento por tiempo limitado,
+                con motivo de la Navidad, disponible para War Robots en dispositivos iOS y Android.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+            <div class="icon-box border border-danger">
+              <div class="ratio ratio-4x3">
+                <img src="https://as.com/meristation/imagenes/2020/05/30/noticias/1590840192_019456_1590840269_noticia_normal.jpg" alt="" width="240px" height="150px">
+              </div>
+              <h4><a href="">¡Novedades de Minecraft Dungeons, Ray Tracing y más!</a></h4>
+              <p>Minecraft lanzó ayer oficialmente Minecraft con RTX para Windows 10, impulsado por NVIDIA. La beta ha concluido y
+                los jugadores ya pueden disfrutar gratis de Minecraft con ray tracing, que incluye píxeles emisores, reflejos en el
+                agua, sombras proyectadas con precisión y una rica iluminación global.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-world"></i></div>
-              <h4><a href="">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+            <div class="icon-box border border-danger">
+              <div class="ratio ratio-4x3">
+                <img src="https://as01.epimg.net/meristation/imagenes/2020/03/15/analisis/1584267295_465966_1584431774_portada_normal.jpg" alt="" width="240px" height="150px">
+              </div>
+              <h4><a href="">Persona 5 Strikers para PS4, Switch y Steam</a></h4>
+              <p>Persona 5 Strikers llegará a PlayStation 4, Nintendo Switch y Steam el 23 de febrero de 2021. La campaña de reserva
+                anticipada de las versiones digitales y físicas estará disponible a lo largo de este jueves 10 de diciembre.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-slideshow"></i></div>
-              <h4><a href="">Dele cardo</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+            <div class="icon-box border border-danger">
+              <div class="ratio ratio-4x3">
+                <img src="https://media.rockstargames.com/rockstargames-newsite/uploads/97eda5e7db29b21e5a817343440e034969743382.jpg" alt="" width="240px" height="150px">
+              </div>
+              <h4><a href="">GTA Online. Nuevo tráiler de Golpe a Cayo Perico</a></h4>
+              <p>Echad un vistazo al nuevo tráiler de la nueva aventura de GTA Online de 1 a 4 jugadores, Golpe a Cayo Perico,
+                disponible para descargar gratis el próximo martes 15 de diciembre.</p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-arch"></i></div>
-              <h4><a href="">Divera don</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+            <div class="icon-box border border-danger">
+              <div class="ratio ratio-4x3">
+                <img src="https://img.youtube.com/vi/x4BoyKLw1Mk/maxresdefault.jpg" alt="" width="240px" height="150px">
+              </div>
+              <h4><a href="">Red Dead Online: la Fugitiva Legendaria Carmela Montez</a></h4>
+              <p>El Salvaje Oeste de Red Dead Online está a punto de ser aún más un lugar sin ley después de ser avistada la líder de
+                la infame banda Del Lobo, Carmela Montez, en la zona de West Elizabeth.</p>
             </div>
           </div>
 
@@ -294,7 +232,7 @@
           <p>Top mensual</p>
         </div>
 
-        <div class="row" data-aos="fade-up" data-aos-delay="100">
+      <!--  <div class="row" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
@@ -303,18 +241,18 @@
               <li data-filter=".filter-web">Web</li>
             </ul>
           </div>
-        </div>
+        </div> -->
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="Resources/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <img src="Resources/img/portfolio/slime-portada.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 1</h4>
-                <p>App</p>
+                <h4>Tensei shitara slime datta ken</h4>
+
                 <div class="portfolio-links">
-                  <a href="Resources/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+                  <a href="Resources/img/portfolio/slime-portada.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -323,12 +261,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="Resources/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+              <img src="Resources/img/portfolio/dragon-ball.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
+                <h4>Dragon ball super</h4>
+
                 <div class="portfolio-links">
-                  <a href="Resources/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  <a href="Resources/img/portfolio/dragon-ball.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -337,12 +275,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="Resources/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <img src="Resources/img/portfolio/black-clover.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 2</h4>
-                <p>App</p>
+                <h4>Black Clover</h4>
+
                 <div class="portfolio-links">
-                  <a href="Resources/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
+                  <a href="Resources/img/portfolio/black-clover.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -351,12 +289,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="Resources/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+              <img src="Resources/img/portfolio/naruto.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 2</h4>
-                <p>Card</p>
+                <h4>Naruto</h4>
+
                 <div class="portfolio-links">
-                  <a href="Resources/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
+                  <a href="Resources/img/portfolio/naruto.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -365,12 +303,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="Resources/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+              <img src="Resources/img/portfolio/re-zero.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 2</h4>
-                <p>Web</p>
+                <h4>Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season</h4>
+
                 <div class="portfolio-links">
-                  <a href="Resources/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
+                  <a href="Resources/img/portfolio/re-zero.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -379,12 +317,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="Resources/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+              <img src="Resources/img/portfolio/after-end.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 3</h4>
-                <p>App</p>
+                <h4>La vida despues de la muerte</h4>
+
                 <div class="portfolio-links">
-                  <a href="Resources/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
+                  <a href="Resources/img/portfolio/after-end.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -393,12 +331,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="Resources/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+              <img src="Resources/img/portfolio/Tower-of-God-portada.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 1</h4>
-                <p>Card</p>
+                <h4>Tower of god</h4>
+
                 <div class="portfolio-links">
-                  <a href="Resources/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
+                  <a href="Resources/img/portfolio/Tower-of-God-portada.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -407,12 +345,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="Resources/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+              <img src="Resources/img/portfolio/Dr-Stone-Poster.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 3</h4>
-                <p>Card</p>
+                <h4>Dr Stone</h4>
+
                 <div class="portfolio-links">
-                  <a href="Resources/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
+                  <a href="Resources/img/portfolio/Dr-Stone-Poster.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -421,12 +359,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="Resources/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+              <img src="Resources/img/portfolio/Iruma-kun-portada.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
+                <h4>Mairimashita iruma kun</h4>
+
                 <div class="portfolio-links">
-                  <a href="Resources/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  <a href="Resources/img/portfolio/Iruma-kun-portada.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -661,21 +599,21 @@
 
           <div class="col-lg-4">
             <div class="info">
-              <div class="address">
-                <i class="icofont-google-map"></i>
-                <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+              <div class="email">
+                <i class="icofont-envelope"></i>
+                <h4>E-mail:</h4>
+                <p>jossue.vega17@tectijuana.edu.mx</p>
               </div>
 
               <div class="email">
                 <i class="icofont-envelope"></i>
-                <h4>Email:</h4>
+                <h4>Otro E-mail:</h4>
                 <p>info@example.com</p>
               </div>
 
               <div class="phone">
                 <i class="icofont-phone"></i>
-                <h4>Call:</h4>
+                <h4>Telefono:</h4>
                 <p>+1 5589 55488 55s</p>
               </div>
 
@@ -685,23 +623,23 @@
 
           <div class="col-lg-8 mt-5 mt-lg-0">
 
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <form action="Controller/Save.php" method="post" role="form" class="php-email-form">
               <div class="form-row">
                 <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Nombre" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                   <div class="validate"></div>
                 </div>
                 <div class="col-md-6 form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Correo" data-rule="email" data-msg="Please enter a valid email" />
                   <div class="validate"></div>
                 </div>
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Asunto" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
                 <div class="validate"></div>
               </div>
               <div class="form-group">
-                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Mensaje"></textarea>
                 <div class="validate"></div>
               </div>
               <div class="mb-3">
@@ -721,98 +659,4 @@
 
   </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
-    <div class="footer-top">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6">
-            <div class="footer-info">
-              <h3>Gp<span>.</span></h3>
-              <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
-              </p>
-              <div class="social-links mt-3">
-                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-
-          </div>
-
-        </div>
-      </div>
-    </div>
-
-    <div class="container">
-      <div class="copyright">
-        &copy; Copyright <strong><span>Gp</span></strong>. All Rights Reserved
-      </div>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-      </div>
-    </div>
-  </footer><!-- End Footer -->
-
-  <a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>
-  <div id="preloader"></div>
-
-  <!-- Vendor JS Files -->
-  <script src="Resources/vendor/jquery/jquery.min.js"></script>
-  <script src="Resources/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="Resources/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="Resources/vendor/php-email-form/validate.js"></script>
-  <script src="Resources/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="Resources/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="Resources/vendor/venobox/venobox.min.js"></script>
-  <script src="Resources/vendor/waypoints/jquery.waypoints.min.js"></script>
-  <script src="Resources/vendor/counterup/counterup.min.js"></script>
-  <script src="Resources/vendor/aos/aos.js"></script>
-
-  <!-- Template Main JS File -->
-  <script src="Resources/js/main.js"></script>
-
-</body>
-
-</html>
+<?php include'Layouts/footer.php'; ?>
